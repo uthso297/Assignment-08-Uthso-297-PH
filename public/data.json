@@ -1,0 +1,172 @@
+[
+    {
+        "product_id": 1,
+        "product_title": "Galaxy S21",
+        "product_image": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s21-ultra-5g-2.jpg",
+        "category": "Phone",
+        "price": 799.99,
+        "description": "Samsung Galaxy S21 with 128GB storage and advanced camera features.",
+        "Specification": [
+            "Display: 6.2 inches",
+            "RAM: 8GB",
+            "Storage: 128GB",
+            "Camera: Triple rear 12MP",
+            "Battery: 4000mAh"
+        ],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": 2,
+        "product_title": "Dell XPS 13",
+        "product_image": "https://fdn.gsmarena.com/imgroot/news/18/01/dell-xps-available-from-microsoft-us/-700x396/gsmarena_001.jpg",
+        "category": "Laptop",
+        "price": 1199.99,
+        "description": "Dell XPS 13 with Intel Core i7 and stunning InfinityEdge display.",
+        "Specification": [
+            "Display: 13.4 inches",
+            "RAM: 16GB",
+            "Storage: 512GB SSD",
+            "Processor: Intel Core i7",
+            "Battery: 12 hours"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": 3,
+        "product_title": "iPhone 13",
+        "product_image": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-13-01.jpg",
+        "category": "Phone",
+        "price": 999.99,
+        "description": "Apple iPhone 13 with A15 Bionic chip and superior battery life.",
+        "Specification": [
+            "Display: 6.1 inches",
+            "RAM: 4GB",
+            "Storage: 128GB",
+            "Camera: Dual 12MP",
+            "Battery: 3240mAh"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": 4,
+        "product_title": "Google Pixel 6",
+        "product_image": "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-6-1.jpg",
+        "category": "Phone",
+        "price": 599.99,
+        "description": "Google Pixel 6 with an amazing camera and stock Android experience.",
+        "Specification": [
+            "Display: 6.4 inches",
+            "RAM: 8GB",
+            "Storage: 128GB",
+            "Camera: Dual 50MP",
+            "Battery: 4614mAh"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": 5,
+        "product_title": "Samsung Galaxy Watch 4",
+        "product_image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-watch4.jpg",
+        "category": "Smartwatch",
+        "price": 249.99,
+        "description": "Samsung Galaxy Watch 4 with health monitoring and customizable watch faces.",
+        "Specification": [
+            "Display: 1.4 inches",
+            "Battery: 40 hours",
+            "Water resistance: WR50",
+            "GPS: Yes",
+            "Heart rate monitor: Yes"
+        ],
+        "availability": true,
+        "rating": 5
+    },
+    {
+        "product_id": 6,
+        "product_title": "OnePlus 9",
+        "product_image": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-9-3.jpg",
+        "category": "Phone",
+        "price": 729.99,
+        "description": "OnePlus 9 with Hasselblad camera partnership for exceptional photography.",
+        "Specification": [
+            "Display: 6.55 inches",
+            "RAM: 8GB",
+            "Storage: 128GB",
+            "Camera: Triple 48MP",
+            "Battery: 4500mAh"
+        ],
+        "availability": true,
+        "rating": 4.4
+    },
+    {
+        "product_id": 7,
+        "product_title": "Sony Xperia 1 III",
+        "product_image": "https://fdn.gsmarena.com/imgroot/reviews/21/sony-xperia-1-iii/lifestyle/-1200w5/gsmarena_001.jpg",
+        "category": "Phone",
+        "price": 1299.99,
+        "description": "Sony Xperia 1 III with a stunning 4K display and pro-grade camera.",
+        "Specification": [
+            "Display: 6.5 inches",
+            "RAM: 12GB",
+            "Storage: 256GB",
+            "Camera: Triple 12MP",
+            "Battery: 4500mAh"
+        ],
+        "availability": false,
+        "rating": 4.6
+    },
+    {
+        "product_id": 8,
+        "product_title": "Motorola Edge 20",
+        "product_image": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-edge-2024-2.jpg",
+        "category": "Phone",
+        "price": 499.99,
+        "description": "Motorola Edge 20 with a sleek design and a 108MP camera.",
+        "Specification": [
+            "Display: 6.7 inches",
+            "RAM: 8GB",
+            "Storage: 128GB",
+            "Camera: Triple 108MP",
+            "Battery: 4000mAh"
+        ],
+        "availability": true,
+        "rating": 4.3
+    },
+    {
+        "product_id": 9,
+        "product_title": "MacBook Air M1",
+        "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/2323-92738.jpg",
+        "category": "Laptop",
+        "price": 999.99,
+        "description": "Apple MacBook Air with M1 chip for incredible performance and battery life.",
+        "Specification": [
+            "Display: 13.3 inches",
+            "RAM: 8GB",
+            "Storage: 256GB SSD",
+            "Processor: Apple M1",
+            "Battery: 18 hours"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": 10,
+        "product_title": "Apple Watch Series 7",
+        "product_image": "https://istockbd.com/cdn/shop/products/Apple-watch-Nike-Series-7-Midnight-Aluminum-Case-with-Nike-Sport-Band-price-in-BD.jpg?v=1644826073&width=600",
+        "category": "Smartwatch",
+        "price": 399.99,
+        "description": "Apple Watch Series 7 with always-on display and fitness tracking.",
+        "Specification": [
+            "Display: 1.9 inches",
+            "Battery: 18 hours",
+            "Water resistance: WR50",
+            "GPS: Yes",
+            "Heart rate monitor: Yes"
+        ],
+        "availability": true,
+        "rating": 4.6
+    }
+]

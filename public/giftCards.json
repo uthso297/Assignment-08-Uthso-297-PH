@@ -1,0 +1,47 @@
+[
+    {
+        "card_id": "GC123456789",
+        "brand": "Amazon",
+        "value": 50.00,
+        "currency": "USD",
+        "expiry_date": "2025-12-31",
+        "status": "active",
+        "image_url": "https://huuray.com/wp-content/uploads/2023/02/amazon-gift-card-1.png"
+    },
+    {
+        "card_id": "GC987654321",
+        "brand": "Starbucks",
+        "value": 25.00,
+        "currency": "USD",
+        "expiry_date": "2024-06-30",
+        "status": "active",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkG0cbvDEgD94emKC_brj7NqhGbYqJlxtNUw63_gXcgjQPaYuHajWQiWJZ8Nqf_th7pJY&usqp=CAU"
+    },
+    {
+        "card_id": "GC456789012",
+        "brand": "Apple Store",
+        "value": 100.00,
+        "currency": "USD",
+        "expiry_date": "2026-03-15",
+        "status": "inactive",
+        "image_url": "https://m.media-amazon.com/images/I/51x2bdQrr-L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "card_id": "GC321654987",
+        "brand": "Target",
+        "value": 75.00,
+        "currency": "USD",
+        "expiry_date": "2024-09-01",
+        "status": "active",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxkFSFjhSil1bG1E0GS9dHMZAJDAPpO9TQaQ&s"
+    },
+    {
+        "card_id": "GC741258963",
+        "brand": "Walmart",
+        "value": 100.00,
+        "currency": "USD",
+        "expiry_date": "2025-08-20",
+        "status": "active",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdFUEQhCgIqU7L1VSp3DUjlhKxUGJlnly6gw&s"
+    }
+]
